@@ -76,10 +76,10 @@
   margin-bottom: 8px;
   background: #fff;
   font-size: 14px;
-  border: 1px solid #eaeaec;
+  /* border: 1px solid #eaeaec; */
   border-radius: 4px;
   position: relative;
-  padding: 12px 12px 0;
+  padding: 12px 1px 0;
 }
 
 .item-left-part {
@@ -87,6 +87,7 @@
   background: rgb(255, 242, 223);
   height: 148px;
   width: 111px;
+  border:1px ;
 }
 
 .item-right-part {
@@ -95,10 +96,12 @@
   min-height: 148px;
   margin-left: 111px;
   margin-bottom: 12px;
+  border:1px ;
 }
 
 .bag-item-img {
   width: 100%;
+
 }
 
 .return-period {
